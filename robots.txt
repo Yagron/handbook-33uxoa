@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Yagron.github.io/handbook-33uxoa/sitemap.xml
